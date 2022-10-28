@@ -1,0 +1,30 @@
+2022.10.28 07:53:17 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\jv\Desktop\backend_challenge\.metals\lsp.trace.json or C:\Users\jv\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.28 07:53:18 INFO  logging to file C:\Users\jv\Desktop\backend_challenge\.metals\metals.log
+2022.10.28 07:53:18 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\jv\Desktop\backend_challenge' for client Visual Studio Code 1.72.2.
+2022.10.28 07:53:21 INFO  time: initialize in 2.33s
+2022.10.28 07:53:22 WARN  Build server is not auto-connectable.
+2022.10.28 07:54:09 INFO  running 'D:\Dev Tools\JDK11\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\jv\AppData\Local\Temp\metals8794650778530704395\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.10.28 07:54:11 INFO  [info] welcome to sbt 1.7.2 (Oracle Corporation Java 11.0.16.1)
+2022.10.28 07:54:14 INFO  [info] loading settings for project backend_challenge-build-build from metals.sbt ...
+2022.10.28 07:54:14 INFO  [info] loading project definition from C:\Users\jv\Desktop\backend_challenge\project\project
+2022.10.28 07:54:19 INFO  [info] loading settings for project backend_challenge-build from metals.sbt ...
+2022.10.28 07:54:19 INFO  [info] loading project definition from C:\Users\jv\Desktop\backend_challenge\project
+2022.10.28 07:54:24 INFO  [success] Generated .bloop\backend_challenge-build.json
+2022.10.28 07:54:24 INFO  [success] Total time: 5 s, completed 28 de out de 2022 07:54:24
+2022.10.28 07:54:26 INFO  [info] loading settings for project root from build.sbt ...
+2022.10.28 07:54:26 INFO  [info] set current project to backend_challenge (in build file:/C:/Users/jv/Desktop/backend_challenge/)
+2022.10.28 07:54:26 INFO  [success] Generated .bloop\root.json
+2022.10.28 07:54:26 INFO  [success] Generated .bloop\root-test.json
+2022.10.28 07:54:26 INFO  [success] Total time: 0 s, completed 28 de out de 2022 07:54:27
+2022.10.28 07:54:27 INFO  time: ran 'sbt bloopInstall' in 18s
+2022.10.28 07:54:27 INFO  Attempting to connect to the build server...
+2022.10.28 07:54:27 INFO  Bloop uses D:\Dev Tools\JDK11 defined at C:\Users\jv\.bloop\bloop.json
+2022.10.28 07:54:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jv\Desktop\backend_challenge\.metals\bsp.trace.json or C:\Users\jv\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.10.28 07:54:35 INFO  Attempting to connect to the build server...
+2022.10.28 07:54:35 INFO  Bloop uses D:\Dev Tools\JDK11 defined at C:\Users\jv\.bloop\bloop.json
+2022.10.28 07:54:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jv\Desktop\backend_challenge\project\.metals\bsp.trace.json or C:\Users\jv\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.10.28 07:54:35 INFO  time: Connected to build server in 9.12s
+2022.10.28 07:54:35 INFO  Connected to Build server: Bloop v1.5.4
+2022.10.28 07:54:36 INFO  time: Imported build in 0.25s
+out 28, 2022 7:54:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
