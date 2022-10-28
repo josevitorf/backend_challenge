@@ -28,3 +28,4 @@
 2022.10.28 07:54:36 INFO  time: Imported build in 0.25s
 out 28, 2022 7:54:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2022.10.28 07:54:50 INFO  time: indexed workspace in 14s
